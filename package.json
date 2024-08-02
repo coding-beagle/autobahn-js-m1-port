@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/crossbario/autobahn-js.git"
+    "url": "git://github.com/coding-beagle/autobahn-js-m1-port.git"
   },
   "author": "Crossbar.io Technologies GmbH",
   "license": "MIT",
